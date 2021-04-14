@@ -1,0 +1,55 @@
+{
+  "employees": [
+    {
+      "firstName": "mohammed",
+      "lastName": "homir",
+      "phone": "333333333333",
+      "cin": "HH44",
+      "passport": "GR44444",
+      "address": "jnane chekkouri",
+      "city": "safi",
+      "country": "Maroc",
+      "id": 1
+    },
+    {
+      "firstName": "mohammed",
+      "lastName": "hrs",
+      "phone": "3233333",
+      "cin": "HHH4444",
+      "passport": "HH44677",
+      "address": " jnane chekkouri",
+      "city": "safi",
+      "country": "Maroc",
+      "id": 2
+    },
+    {
+      "firstName": "amine",
+      "lastName": "hr",
+      "phone": "3333333333",
+      "cin": "HHH4444",
+      "passport": "HG4444",
+      "address": "37 av chakib arsalane qu jnane chekkouri",
+      "city": "safi",
+      "country": "Maroc",
+      "id": 3
+    }
+  ],
+  "employers": [
+    {
+      "email": "aminehr@gmail.com",
+      "employer": "amine",
+      "phone": "333333333",
+      "cnss": "4543436363",
+      "address": " jnane chekkouri",
+      "id": 1
+    },
+    {
+      "email": "amine@gmail.com",
+      "employer": "amine",
+      "phone": "33333333333",
+      "cnss": "HH333333",
+      "address": " jnane chekkouri",
+      "id": 2
+    }
+  ]
+}
